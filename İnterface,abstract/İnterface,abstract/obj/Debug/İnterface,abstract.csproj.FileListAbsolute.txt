@@ -1,0 +1,7 @@
+C:\Users\derya\Documents\C# forms\İnterface,abstract\İnterface,abstract\bin\Debug\İnterface,abstract.exe.config
+C:\Users\derya\Documents\C# forms\İnterface,abstract\İnterface,abstract\bin\Debug\İnterface,abstract.exe
+C:\Users\derya\Documents\C# forms\İnterface,abstract\İnterface,abstract\bin\Debug\İnterface,abstract.pdb
+C:\Users\derya\Documents\C# forms\İnterface,abstract\İnterface,abstract\obj\Debug\İnterface,abstract.csprojAssemblyReference.cache
+C:\Users\derya\Documents\C# forms\İnterface,abstract\İnterface,abstract\obj\Debug\İnterface,abstract.csproj.CoreCompileInputs.cache
+C:\Users\derya\Documents\C# forms\İnterface,abstract\İnterface,abstract\obj\Debug\İnterface,abstract.exe
+C:\Users\derya\Documents\C# forms\İnterface,abstract\İnterface,abstract\obj\Debug\İnterface,abstract.pdb
