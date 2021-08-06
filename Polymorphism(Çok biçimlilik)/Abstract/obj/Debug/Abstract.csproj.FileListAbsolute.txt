@@ -1,0 +1,6 @@
+C:\Users\derya\Documents\C# forms\Polymorphism(Çok biçimlilik)\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\derya\Documents\C# forms\Polymorphism(Çok biçimlilik)\Abstract\bin\Debug\Abstract.exe
+C:\Users\derya\Documents\C# forms\Polymorphism(Çok biçimlilik)\Abstract\bin\Debug\Abstract.pdb
+C:\Users\derya\Documents\C# forms\Polymorphism(Çok biçimlilik)\Abstract\obj\Debug\Abstract.csproj.CoreCompileInputs.cache
+C:\Users\derya\Documents\C# forms\Polymorphism(Çok biçimlilik)\Abstract\obj\Debug\Abstract.exe
+C:\Users\derya\Documents\C# forms\Polymorphism(Çok biçimlilik)\Abstract\obj\Debug\Abstract.pdb

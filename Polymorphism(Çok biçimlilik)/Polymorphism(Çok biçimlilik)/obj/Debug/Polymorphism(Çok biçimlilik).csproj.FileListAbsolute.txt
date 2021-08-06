@@ -1,0 +1,7 @@
+C:\Users\derya\Documents\C# forms\Polymorphism(Çok biçimlilik)\Polymorphism(Çok biçimlilik)\bin\Debug\Polymorphism(Çok biçimlilik).exe.config
+C:\Users\derya\Documents\C# forms\Polymorphism(Çok biçimlilik)\Polymorphism(Çok biçimlilik)\bin\Debug\Polymorphism(Çok biçimlilik).exe
+C:\Users\derya\Documents\C# forms\Polymorphism(Çok biçimlilik)\Polymorphism(Çok biçimlilik)\bin\Debug\Polymorphism(Çok biçimlilik).pdb
+C:\Users\derya\Documents\C# forms\Polymorphism(Çok biçimlilik)\Polymorphism(Çok biçimlilik)\obj\Debug\Polymorphism(Çok biçimlilik).csprojAssemblyReference.cache
+C:\Users\derya\Documents\C# forms\Polymorphism(Çok biçimlilik)\Polymorphism(Çok biçimlilik)\obj\Debug\Polymorphism(Çok biçimlilik).csproj.CoreCompileInputs.cache
+C:\Users\derya\Documents\C# forms\Polymorphism(Çok biçimlilik)\Polymorphism(Çok biçimlilik)\obj\Debug\Polymorphism(Çok biçimlilik).exe
+C:\Users\derya\Documents\C# forms\Polymorphism(Çok biçimlilik)\Polymorphism(Çok biçimlilik)\obj\Debug\Polymorphism(Çok biçimlilik).pdb
