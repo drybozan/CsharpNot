@@ -1,0 +1,10 @@
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUygulama\bin\Debug\inheritanceUygulama.exe.config
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUygulama\bin\Debug\inheritanceUygulama.exe
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUygulama\bin\Debug\inheritanceUygulama.pdb
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUygulama\obj\Debug\inheritanceUygulama2.csprojAssemblyReference.cache
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUygulama\obj\Debug\inheritanceUygulama.Form1.resources
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUygulama\obj\Debug\inheritanceUygulama.Properties.Resources.resources
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUygulama\obj\Debug\inheritanceUygulama2.csproj.GenerateResource.cache
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUygulama\obj\Debug\inheritanceUygulama2.csproj.CoreCompileInputs.cache
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUygulama\obj\Debug\inheritanceUygulama.exe
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUygulama\obj\Debug\inheritanceUygulama.pdb
