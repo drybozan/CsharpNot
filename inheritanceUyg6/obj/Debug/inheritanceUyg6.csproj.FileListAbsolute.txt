@@ -1,0 +1,10 @@
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUyg6\obj\Debug\inheritanceUyg6.csprojAssemblyReference.cache
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUyg6\obj\Debug\inheritanceUyg6.Form1.resources
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUyg6\obj\Debug\inheritanceUyg6.Properties.Resources.resources
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUyg6\obj\Debug\inheritanceUyg6.csproj.GenerateResource.cache
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUyg6\obj\Debug\inheritanceUyg6.csproj.CoreCompileInputs.cache
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUyg6\bin\Debug\inheritanceUyg6.exe.config
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUyg6\bin\Debug\inheritanceUyg6.exe
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUyg6\bin\Debug\inheritanceUyg6.pdb
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUyg6\obj\Debug\inheritanceUyg6.exe
+C:\Users\derya\Documents\C# forms\inheritance(miras)\inheritanceUyg6\obj\Debug\inheritanceUyg6.pdb
